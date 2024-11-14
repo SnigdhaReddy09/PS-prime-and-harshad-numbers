@@ -1,0 +1,1 @@
+# PS-prime-and-harshad-numbers
